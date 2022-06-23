@@ -9,8 +9,8 @@
 locale                   : "en-US"
 title                    : "Livan Borrego"
 title_separator          : "-"
-name                     : &name "Livan Borrego"
-description              : &description "study chemistry"
+name                     : &name "Livan's Personal Website"
+description              : &description "Chemistry undergraduate student at the University of Havana"
 url                      : https://livanborrego.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "livanborrego.github.io"
@@ -82,34 +82,34 @@ analytics:
 author:
   name             : "Livan Borrego"
   avatar           : "profile.png"
-  bio              : "quimica"
-  location         : "cuba"
+  bio              : "Chemistry undergraduate student at the University of Havana"
+  location         : "Havana, Cuba"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : "https://scholar.google.com/citations?user=9Vxc91EAAAAJ&hl=en"
+  email            : "livanborrego@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/livan.borregocamejo.1998"
   foursquare       :
-  github           : "academicpages"
+  github           : "livanborrego"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/livanborrego/"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "www.linkedin.com/in/livanborrego"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : "@LivanBorrego"
   vine             :
   weibo            :
   xing             :
